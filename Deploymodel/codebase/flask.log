@@ -1,0 +1,8 @@
+2021-08-26 08:11:48,289 INFO root MainThread : Model and vocabulary loaded......
+2021-08-26 08:11:48,300 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-08-26 08:11:48,301 INFO werkzeug MainThread :  * Running on http://192.168.0.23:5000/ (Press CTRL+C to quit)
+2021-08-26 08:11:53,946 INFO sa_flask_app Thread-1 : Text from request Its a great product
+2021-08-26 08:11:55,318 INFO sa_flask_app Thread-1 : Prediction converted to string 3.3246634006500244
+2021-08-26 08:11:55,318 INFO werkzeug Thread-1 : 127.0.0.1 - - [26/Aug/2021 08:11:55] "POST /saclassifier HTTP/1.1" 200 -
+2021-08-26 08:13:07,358 INFO werkzeug Thread-2 : 127.0.0.1 - - [26/Aug/2021 08:13:07] "GET /hcheck HTTP/1.1" 200 -
